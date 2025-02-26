@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         } else {
             lblResult.text = "다시 입력해주세요."
         }
-        lblResult.text = "결과: \(num1) \(oper) \(num2) = \(result)"
+        lblResult.text = "결과: \(result)"
         print("결과:", num1, oper, num2, "=", result)
         
     }
