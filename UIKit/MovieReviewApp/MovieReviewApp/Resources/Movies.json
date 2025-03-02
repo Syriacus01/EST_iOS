@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Inception",
+        "poster": "inception.jpg",
+        "year": 2010,
+        "description": "A mind-bending thriller where dreams can be controlled."
+    },
+    {
+        "title": "Interstellar",
+        "poster": "interstellar.jpg",
+        "year": 2014,
+        "description": "A space epic exploring love, science, and survival."
+    },
+    {
+        "title": "The Dark Knight",
+        "poster": "dark_knight.jpg",
+        "year": 2008,
+        "description": "The legendary story of Batman and the Joker."
+    }
+]
